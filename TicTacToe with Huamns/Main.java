@@ -6,8 +6,8 @@ public class Main
 	    Scanner sc=new Scanner(System.in);
 	    System.out.println("Enter the Player1 name: ");
 	    String player1=sc.next();
-	    /*System.out.println("Enter the Player2 name: ");
-	    String player2=sc.next();*/
+	    System.out.println("Enter the Player2 name: ");
+	    String player2=sc.next();
 	    
 	    TicTacTao t= new TicTacTao();
 	    //Creating objects for 2 persons
