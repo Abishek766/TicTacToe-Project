@@ -8,7 +8,6 @@ public class HumanPlayer extends Player{
         
     }
     // to make move with X or O
-    @Override
     public void makeMove(){
         //take input from keyboard
         Scanner sc = new Scanner(System.in);
